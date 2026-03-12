@@ -86,3 +86,4 @@ export async function GET() {
 |------|---------|
 | Initial | Template created with base setup |
 | 2026-03-12 | Added premium landing page with hero, features, navigation, footer |
+| 2026-03-12 | Enhanced landing page with stats, pricing, testimonials sections |
