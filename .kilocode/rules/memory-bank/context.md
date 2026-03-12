@@ -76,7 +76,7 @@ export async function GET() {
 
 ## Pending Improvements
 
-- [ ] Add more recipes (auth, email, etc.)
+- [x] Add more recipes (auth, email, etc.)
 - [ ] Add example components
 - [ ] Add testing setup recipe
 
@@ -85,3 +85,4 @@ export async function GET() {
 | Date | Changes |
 |------|---------|
 | Initial | Template created with base setup |
+| 2026-03-12 | Added premium landing page with hero, features, navigation, footer |
